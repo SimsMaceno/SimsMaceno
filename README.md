@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Simara Maceno 🎮
+____________________________________________________________________________________________________________________________________________________________________________
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
-<!--
-**SimsMaceno/SimsMaceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enthusiast the technologies.
 
-Here are some ideas to get you started:
+![image_123986672](https://user-images.githubusercontent.com/51797692/98486635-43a10280-21fd-11eb-8c73-3b3dda9f96b0.JPG)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📍 Living in Curitiba-Pr.
+
+🕹 Web Development.
+
+* 🛸 Enjoy the Journey.
+
+⚡️ Fan Fact: Marvel Universe.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Simara%20Maceno-000304?style=flat-square&logo=Linkedin&logoColor=f0faff&link=https://www.linkedin.com/in/simara-maceno-3b3992171/)](https://www.linkedin.com/in/simara-maceno-3b3992171/) 
+[![Instagram Badge](https://img.shields.io/badge/-Simara%20Maceno-b5001d?style=flat-square&logo=Instagram&logoColor=f0faff&link=https://www.instagram.com/simsyessrealoficial/)](https://www.instagram.com/simsyessrealoficial/) 
+
+
+
