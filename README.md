@@ -2,7 +2,7 @@
 ____________________________________________________________________________________________________________________________________________________________________________
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
-Enthusiast the technologies.
+Technology enthusiast.
 
 ![image_123986672](https://user-images.githubusercontent.com/51797692/98486635-43a10280-21fd-11eb-8c73-3b3dda9f96b0.JPG)
 
