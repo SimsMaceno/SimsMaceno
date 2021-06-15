@@ -16,4 +16,8 @@ Technology enthusiast.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Simara%20Maceno-000304?style=flat-square&logo=Linkedin&logoColor=f0faff&link=https://www.linkedin.com/in/simara-maceno-3b3992171/)](https://www.linkedin.com/in/simara-maceno-3b3992171/) 
 [![Instagram Badge](https://img.shields.io/badge/-Simara%20Maceno-b5001d?style=flat-square&logo=Instagram&logoColor=f0faff&link=https://www.instagram.com/simsyessrealoficial/)](https://www.instagram.com/simsyessrealoficial/) 
+<div> 
 
+  ! [ Animação de cobra ] (https://github.com/SimsMaceno/SimsMaceno/blob/output/github-contribution-grid-snake.svg)
+
+</div>
