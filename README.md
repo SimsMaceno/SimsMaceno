@@ -8,7 +8,7 @@ Technology enthusiast.
 
 * 📍 Living in Curitiba-Pr.
 
-🕹 Web Development.
+🕹 Data Science.
 
 * 🛸 Enjoy the Journey.
 
