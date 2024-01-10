@@ -14,6 +14,6 @@ Technology enthusiast.
 
 ⚡️ Fan Fact: Marvel Universe.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Simara%20Maceno-000304?style=flat-square&logo=Linkedin&logoColor=f0faff&link=https://www.linkedin.com/in/simara-maceno-3b3992171/)](https://www.linkedin.com/in/simara-maceno-3b3992171/) 
-[![Instagram Badge](https://img.shields.io/badge/-Simara%20Maceno-b5001d?style=flat-square&logo=Instagram&logoColor=f0faff&link=https://www.instagram.com/simsyessrealoficial/)](https://www.instagram.com/simsyessrealoficial/)
+[![Linkedin Badge](https://img.shields.io/badge/-Simara%20Maceno-000304?style=flat-square&logo=Linkedin&logoColor=f0faff&link=https://www.linkedin.com/in/simara-maceno-3b3992171/)](https://www.linkedin.com/in/simi-maceno-3b3992171/) 
+
 
